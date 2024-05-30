@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StatShibe
 - 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Data Science
 - 📫 Reach me at https://www.linkedin.com/in/hareshmoorthy
 
 <!---
